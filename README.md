@@ -1,6 +1,6 @@
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-7c3aed)](https://make.fun/competitions/news-image-20261121)
-[![Bounty: news-image-20261121](https://img.shields.io/badge/bounty-news--image--20261121-blue)](https://make.fun/competitions/news-image-20261121)
-[![Repo: muradpipit/news-image-20261121](https://img.shields.io/badge/repo-muradpipit%2Fnews--image--20261121-green)](https://github.com/muradpipit/news-image-20261121)
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/muradpipit/news-image-20261121/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/muradpipit/news-image-20261121/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 
 # The World in One Day — 21 November 2026
 
